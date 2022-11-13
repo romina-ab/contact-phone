@@ -1,0 +1,1 @@
+insert into contact_test(id, first_name, last_name, number, email) values (10000,'ali', 'ahmadi', '09125582025', 'emailAli');
